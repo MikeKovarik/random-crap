@@ -1,0 +1,1 @@
+<p align="center"><img src="logo.jpg" alt="Random crap from here and there"/></p>
